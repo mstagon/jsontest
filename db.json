@@ -1,0 +1,10 @@
+{
+	"history": [
+		{
+			"role": "user | assistant", 
+			"content": "사용자의 프롬프트 또는 어시스턴트의 응답"
+		},
+		...
+	]
+	"prompt": "사용자가 입력한 프롬프트"
+}
